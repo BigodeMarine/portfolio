@@ -7,6 +7,18 @@ export const skills = [
     "React",
     "Next.js",
     "CSS Modules",
+    "Python",
+    "Redis",
+    "Docker",
+    "Kurbenetes",
+    "Pytest",
+    "Elasticsearch",
+    "Kibana",
+    "Logstash",
+    "Poetry",
+    "Pydantic",
+    "SQLAlchemy",
+    "PostgreSQL",
     "Git",
     "GitHub"
 ];

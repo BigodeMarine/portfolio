@@ -8,7 +8,7 @@ export default function Home() {
         <h1>
           Olá me chamo Edson sou
         </h1>
-        <h2>Desenvolvedor Front-end</h2>
+        <h2>Desenvolvedor Full Stack Python</h2>
 
         <p>
           Crio interfaces modernas, organizadas e responsivas,

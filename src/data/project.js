@@ -26,4 +26,14 @@ export const projects = [
         image: "/Rpg.webp",
         repo: "https://github.com/BigodeMarine/pipeline-ci-cd",
     },
+
+    {
+        slug: "pokemon-api",
+        title: "Pokémon API",
+        description: "API REST para gerenciamento de Pokémon desenvolvida com FastAPI, integrada à PokeAPI, PostgreSQL e Redis. O projeto também possui suporte a Docker, Docker Compose, Kubernetes, GitHub Actions, GitHub Container Registry (GHCR) e monitoramento de logs utilizando a stack ELK (Elasticsearch, Logstash e Kibana).",
+        technologies: ["Python", "FastAPI", "Uvicorn", "Pydantic", "SQLAlchemy", "PostgreSQL", "Psycopg", "Alembic", "Redis", "HTTPX", "Docker", "Docker Compose", "Kubernetes", "Pytest", "GHCR", "Elasticsearch", "Logstash", "Kibana"],
+        image: "/pokemon-project.webp",
+        repo: "https://github.com/BigodeMarine/Pokemon-API",
+    }
+
 ];

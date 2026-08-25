@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className={styles.footer}>
       <div className={styles.container}>
         <p>
-          © {new Date().getFullYear()} Edson Garcia • Desenvolvedor Front-end
+          © {new Date().getFullYear()} Edson Garcia • Desenvolvedor Full Stack Python
         </p>
       </div>
     </footer>

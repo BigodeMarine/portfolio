@@ -17,7 +17,7 @@ export default function About() {
                     <h1>Sobre Mim</h1>
 
                     <p>
-                        Até o momento meu foco tem sido em React e Next.js, sempre interessado em aprender mais e aumentar a minha gama de conhecimento.
+                        Até o momento meu foco tem sido em Python, sempre interessado em aprender mais e aumentar a minha gama de conhecimento.
                     </p>
 
                     <p>
