@@ -8,7 +8,7 @@ export default function About() {
         <section className={styles.about}>
             <div className={styles.container}>
                 <img
-                    src="/BigodeMarine.webp"
+                    src="/foto-perfil-IA.webp"
                     alt="Foto de Edson"
                     className={styles.photo}
                 />
